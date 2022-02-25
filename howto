@@ -1,0 +1,2 @@
+cd senggol-frontend && docker build . --tag ltfrzky/senggol-frontend
+cd senggol && docker build . --tag ltfrzky/senggol
